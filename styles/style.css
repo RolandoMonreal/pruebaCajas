@@ -1,0 +1,62 @@
+
+* {
+    
+}
+
+h1{
+    font-size: 20px;
+    color: blue;
+}
+
+
+.container1 {
+    font-size: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+.container1{
+    background-color: aqua;
+    border: dotted black;
+}
+
+.container2{
+    background-color:blue;
+}
+
+.container3{
+    background-color:blueviolet;
+}
+
+.container4{
+    background-color:brown;
+}
+
+.container5{
+    background-color:burlywood;
+}
+
+.container6{
+    background-color:chartreuse;
+}
+
+.container7{
+    background-color:chocolate;
+}
+
+.container8{
+    background-color:coral;
+}
+
+.container9{
+    background-color:cornflowerblue;
+}
+
+.container10{
+    background-color:crimson;
+}
+
+.container11{
+    background-color:darkgreen;
+}
+
